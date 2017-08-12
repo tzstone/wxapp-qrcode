@@ -1,5 +1,5 @@
 <p> 
-修改jquery-qrcode的代码, 用微信小程序的api绘制canvas. 
+借用jquery-qrcode的qrcode.js代码, 使用微信小程序的api重新绘制canvas. <br/>
 // jquery-qrcode git地址: https://github.com/jeromeetienne/jquery-qrcode
 </p>
 
