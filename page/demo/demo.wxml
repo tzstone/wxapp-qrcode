@@ -1,0 +1,4 @@
+<view class="qrcode">
+	<canvas class="img" canvas-id="myCanvas"/>
+	<view>hello world!</view>
+</view>

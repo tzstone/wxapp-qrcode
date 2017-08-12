@@ -1,0 +1,14 @@
+.qrcode{
+    font-size: 30rpx;
+    color: #ed5353;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300rpx;
+}
+.qrcode .img{
+    width: 250rpx;
+    height: 250rpx;
+    margin: 50rpx 0 30rpx;
+}
