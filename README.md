@@ -1,5 +1,6 @@
 <p> 
-修改jquery-qrcode的代码, 用微信小程序的api绘制canvas. // jquery-qrcode git地址: https://github.com/jeromeetienne/jquery-qrcode
+修改jquery-qrcode的代码, 用微信小程序的api绘制canvas. 
+// jquery-qrcode git地址: https://github.com/jeromeetienne/jquery-qrcode
 </p>
 
 # 如何使用
@@ -22,6 +23,7 @@ qrcode.wxQRCode({
 
 * 注意
     * width和height的单位必须先从rpx转换为px 
+    * target参数为wxml中canvas的id
 
 
 
